@@ -1,4 +1,6 @@
 
+from GitHubApi567 import *
+
 import unittest
 
 class TestGitHubApi(unittest.TestCase):
