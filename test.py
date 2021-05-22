@@ -15,10 +15,10 @@ class TestGitHubApi567(unittest.TestCase):
                                                      'Repo: action-build Number of commits: 30',
                                                      'Repo: Fall2020-567-533-590 Number of commits: 22',
                                                      'Repo: Fall2020_567_HW02 Number of commits: 8',
-                                                     'Repo: GitHubApi567 Number of commits: 15',
+                                                     'Repo: GitHubApi567 Number of commits: 16',
                                                      'Repo: InterNatter Number of commits: 27',
                                                      'Repo: n_r Number of commits: 1',
-                                                     'Repo: Stevens-Python-Course-ByQ.Zhao Number of commits: 44',
+                                                     'Repo: Stevens-Python-Course-ByQ.Zhao Number of commits: 30',
                                                      'Repo: Student-Repository Number of commits: 5'])
     def testIfInvalidUserID(self):
         with self.assertRaises(Exception) as context:
