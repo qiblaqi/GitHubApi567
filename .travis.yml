@@ -5,4 +5,5 @@ python:
 
 # command to run tests
 script:
+ - pip install requests
  - python -m unittest test
