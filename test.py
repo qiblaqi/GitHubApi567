@@ -3,7 +3,7 @@ from GitHubApi567 import *
 
 import unittest
 
-class TestGitHubApi(unittest.TestCase):
+class TestGitHubApi567(unittest.TestCase):
     # define multiple sets of tests as functions with names that begin
 
     def testHelloWorld(self): 
